@@ -1,0 +1,14 @@
+{
+  "name": "workload-model-engine",
+  "version": "1.3.2",
+  "description": "محرك نماذج عبء العمل — توليد عكسي لنموذج مهام افتراضي من عدد الموظفين المستهدف",
+  "author": "AHMAD ZYAD",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "exceljs": "4.4.0"
+  }
+}
